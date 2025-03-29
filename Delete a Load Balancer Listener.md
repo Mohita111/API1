@@ -1,4 +1,4 @@
-## Delete a Load Balancer Listener
+## Delete Load Balancer Listener
 
 This request deletes a load balancer listener. This operation cannot be reversed. For this operation to succeed, the listener must not be the target of another load balancer listener.
 
